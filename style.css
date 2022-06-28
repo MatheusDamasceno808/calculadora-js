@@ -1,0 +1,50 @@
+body {
+    background-color:midnightblue;
+    font-family:'Courier New';
+}
+
+.photo {
+    border-radius: 30px;
+}
+
+#title, .subtitle, .post_title, .post_title2, .post_title3 {
+    color: whitesmoke;
+}
+
+.post_title, .post_title2, .post_title3 {
+    font-size: 18px;
+    font-style: normal;
+    margin: 0;
+    margin-bottom: 15px;
+    margin-top: 4px;
+    
+
+}
+
+.post, .post2, .post3 {
+    background: blueviolet;
+    padding: 4px;
+    border: 4px solid black;
+    margin-bottom: 15px;
+    border-radius: 7px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    color: rgb(245, 245, 245)
+}
+
+.post_content {
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post_image, .post_image2, .post_image3, .post_image4 {
+    margin-bottom: 5px;
+}
+
+.link {
+    color: black;
+    list-style-type: square;
+    padding-left: 15px;
+}
+
+
